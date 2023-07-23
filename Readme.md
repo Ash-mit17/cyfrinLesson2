@@ -1,2 +1,2 @@
 ## Simple Smart Contract
-### Lesson 1 
+### Lesson 2
